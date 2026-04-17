@@ -1,4 +1,4 @@
-                                              ## Hi there 👋
+### Hi there 👋
 
 ## 🙋‍♂️ About Me
 I'm Poorna Ravipati, from india
