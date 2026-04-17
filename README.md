@@ -11,7 +11,7 @@ I'm Poorna Ravipati, From india
 
 
 ## 🛠️ Language and Tools
-![Git](https://img.shields.io/badge/git)
 
+![Git](https://img.shields.io/badge/git)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes)
