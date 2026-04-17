@@ -1,6 +1,11 @@
 
 <h1 align="center"> Hey there 👋</h1>
 
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
+
 ## 🙋‍♂️ About Me
 I'm Poorna Ravipati, from india
 
