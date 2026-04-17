@@ -9,7 +9,7 @@
 
 
 ## 🙋‍♂️ About Me
-I'm Poorna Ravipati, from india
+I'm Poorna Kumar Ravipati, from india
 
 - 🚀 I'm working as a Devops Engineer
 
