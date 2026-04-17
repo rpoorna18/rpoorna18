@@ -4,9 +4,10 @@
 I'm Poorna Ravipati, From india
 
 - 🚀 I'm working as a Devops Engineer
+<!--
 - 📊 I’m currently teaching Kubernetes and everything related to Cloud/DevOps
 - ⚡ In my free time, I help with the CloudOps community and create YouTube tutorials
-
+-->
 
 
 ## 🛠️ Language and Tools
