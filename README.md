@@ -1,4 +1,6 @@
-  # Hi there 👋
+<div align="center">
+# Hi there 👋
+</div>
 
 ## 🙋‍♂️ About Me
 I'm Poorna Ravipati, from india
