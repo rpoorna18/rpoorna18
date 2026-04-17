@@ -2,7 +2,7 @@
 <h1 align="center"> Hey there 👋</h1>
 
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ Hi nice to meet you </h3>
 </p>
 
 
